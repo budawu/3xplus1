@@ -1,11 +1,15 @@
-def threexp1(x:int):
-    while x!=1:
-        if x%2==0:     
-            x=x/2             
+def threexp1(x: int):
+    while x != 1:
+        if x % 2 == 0:
+            x = x // 2
             print(x)
         else:
-            x=3*x+1
+            x = 3 * x + 1
             print(x)
-        if x==1:
-            print('OK')
-            break
+    print('OK')
+
+def main():
+    threexp1(27)
+
+if __name__ == "__main__":
+    main()
