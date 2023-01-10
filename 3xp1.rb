@@ -1,7 +1,7 @@
 def threexp1(x)
 
     while  x != 1
-        if (x%2) == 0
+        if x%2 == 0
             x=x/2
             puts x
         else
@@ -14,5 +14,3 @@ end
 
 
 threexp1 42
-
-
