@@ -5,4 +5,5 @@
 * [Crystal](/3xp1.cr)
 * [Go](/3xp1.go)
 * [Python](/threexp1.py)
+* [Ruby(和Crystal一样)](/3xp1.rb)
 
