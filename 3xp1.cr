@@ -14,5 +14,3 @@ end
 
 
 threexp1 42
-
-
