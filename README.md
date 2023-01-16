@@ -3,6 +3,7 @@
 欢迎大家提交用不同的语言实现的代码~
 
 * [C](/threexp1.c)
+* [C++](/threexp1.cpp)
 * [Crystal](/3xp1.cr)
 * [Go](/3xp1.go)
 * [JavaScript](/threexp1.js)
