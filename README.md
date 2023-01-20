@@ -13,3 +13,4 @@
 * [Ruby(和Crystal一样)](/3xp1.rb)
 * [Rust](/threexp1.rs)
 * [文言](/%E4%B8%89%E5%80%8D%E5%85%83%E5%8A%A0%E4%B8%80.wy)
+* [逻辑电路仿真](/3xp1.CircuitProject)
