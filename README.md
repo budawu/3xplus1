@@ -7,6 +7,7 @@
 * [C++ (mordern)](/3xp1.cpp)
 * [C#](/3xp1.cs)
 * [Crystal](/3xp1.cr)
+* [dart](/3xp1.dart)
 * [Go](/3xp1.go)
 * [JavaScript](/3xp1.js)
 * [Lua](/3xp1.lua)
